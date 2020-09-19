@@ -1,0 +1,28 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.pdb
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+C:\Users\MSI\Desktop\TranspositionCipher-master\TranspositionCipher\obj\Debug\TranspositionCipher.pdb
+C:\Users\MSI\Desktop\TranspositionCipher\Source\bin\Debug\TranspositionCipher.exe.config
+C:\Users\MSI\Desktop\TranspositionCipher\Source\bin\Debug\TranspositionCipher.exe
+C:\Users\MSI\Desktop\TranspositionCipher\Source\bin\Debug\TranspositionCipher.pdb
+C:\Users\MSI\Desktop\TranspositionCipher\Source\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\MSI\Desktop\TranspositionCipher\Source\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\MSI\Desktop\TranspositionCipher\Source\obj\Debug\TranspositionCipher.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\TranspositionCipher\Source\obj\Debug\TranspositionCipher.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\TranspositionCipher\Source\obj\Debug\TranspositionCipher.exe
+C:\Users\MSI\Desktop\TranspositionCipher\Source\obj\Debug\TranspositionCipher.pdb
