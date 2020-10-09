@@ -1,1 +1,1 @@
-Special for KyMU, cryptography project
+Сryptography project
